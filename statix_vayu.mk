@@ -13,7 +13,7 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 
 # Inherit common ArrowOS configurations
 $(call inherit-product, vendor/statix/config/common.mk)
-$(call inherit-product, vendor/static/config/gsm.mk)
+$(call inherit-product, vendor/statix/config/gsm.mk)
 
 PRODUCT_NAME := statix_vayu
 PRODUCT_DEVICE := vayu
