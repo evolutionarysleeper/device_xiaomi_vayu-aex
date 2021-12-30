@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/statix_vayu.mk
+    $(LOCAL_DIR)/potato_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    statix_vayu-eng \
-    statix_vayu-userdebug \
-    statix_vayu-user
+    potato_vayu-eng \
+    potato_vayu-userdebug \
+    potato_vayu-user
